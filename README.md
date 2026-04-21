@@ -6,7 +6,7 @@ A machine learning web app that predicts the risk of heart disease based on clin
 
 ## Live Demo
 
-> Deploy on [[Streamlit Cloud](https://streamlit.io/cloud)](https://heart-disease--prediction.streamlit.app) — see setup instructions below.
+> Deploy on Streamlit Cloud  (https://heart-disease--prediction.streamlit.app) — see setup instructions below.
 
 ---
 
