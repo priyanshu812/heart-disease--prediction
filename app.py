@@ -1,7 +1,9 @@
 import streamlit as st
 import pandas as pd 
 import joblib
-
+import numpy as np
+import warnings
+warnings.filterwarnings('ignore')
 st.title("Heart Disease Prediction ❤️")
 st.markdown("Provide the following details to predict the risk of heart disease")
 # Load the trained model
